@@ -1,5 +1,5 @@
 ---
-name: Item Listring
+name: Item Listing
 about: Fill this out to list or update an item
 title: ''
 labels: ''
