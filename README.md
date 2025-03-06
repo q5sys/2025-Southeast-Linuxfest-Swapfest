@@ -1,2 +1,12 @@
 # 2025-Southeast-Linuxfest-Swapfest
-Information about the 2025 Southeast Linuxfest Swapfest
+
+Over the past few years itself we've had a Retro Linux Ragchew where we talk about and install old Linox versions on old hardware.
+And every year there's always comments by people about something that they have that they should have brought or comments about people saying what they would love to be able to find someday for their own tinkering and enjoyment. 
+
+So for 2025 were going to do something a little different.
+
+Introducing SLS. (Southeast Linuxfest Swapfest)
+kudos to you if you get the reference.
+
+If you want to bring items to swap you must register so that we know how much space we need.
+
