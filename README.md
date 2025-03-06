@@ -25,6 +25,7 @@ If you want to bring items to swap you must register so that we know how much sp
 |   q5sys   |  NextStation    |  Pizzabox only, no monitor or keyboard           |    90s    |  1  | 100 Bars of Gold-Pressed-Latinum    |       |          |
 |   q5sys   |  Commodore CRT    |            |    80s    |  1  | 200 Bars of Gold-Pressed-Latinum    |       |          |
 |   q5sys | Vintage Retail Linux Boxes  | Red Hat, SUSE, Others, etc  | 90s-2000s  | 12  | 25 bars of Gold-Pressed-Latinum each  |   |   |
+|   q5sys | Descent 3 Loki Release  | Retail release Box  | 2000s  | 1  | 25 bars of Gold-Pressed-Latinum each  |   |   |
 |   q5sys | DEC Alphastation  |   | 90s  | 2  | IDK yet  |   |   |
 |   q5sys | SGI Indigo2  |   | 90s  | 2  | IDK yet  |   |   |
 |   q5sys | IBM M5 2u server  |   | 2010s  | 1  | IDK yet  |   |   |
