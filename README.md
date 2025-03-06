@@ -5,8 +5,9 @@ And every year there's always comments by people about something that they have 
 
 So for 2025 were going to do something a little different.
 
-*Introducing SLS*
-Southeast Linuxfest Swapfest
+# *Introducing SLS*
+
+Southeast Linuxfest Swapfest  
 (kudos to you if you get the reference.)
 
 If you want to bring items to swap you must register so that we know how much space we need.
