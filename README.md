@@ -14,6 +14,6 @@ If you want to bring items to swap you must register so that we know how much sp
 
 | Name | Item | Description | Number | Value | Photo | Interest |
 |------|------|-------------|:--------:|-------:|-------|----------|
-|      |      |             |        |       |       |          |
-|      |      |             |        |       |       |          |
+|   q5sys   |  Kaypro II and Printer    |  https://en.wikipedia.org/wiki/Kaypro           |   1     |  300 Bars of Gold-Pressed-Latinum     |       |          |
+|   q5sys   |  Kontron KDS    |             |        |       | [Kontron](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/photos/photo_2025-02-03_11-12-22.jpg)      |          |
 |      |      |             |        |       |       |          |
