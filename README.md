@@ -12,4 +12,8 @@ If you want to bring items to swap you must register so that we know how much sp
 
 [See the FAQ](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/faq.md)
 
-
+| Name | Item | Description | Number | Value | Photo | Interest |
+|------|------|-------------|:--------:|-------:|-------|----------|
+|      |      |             |        |       |       |          |
+|      |      |             |        |       |       |          |
+|      |      |             |        |       |       |          |
