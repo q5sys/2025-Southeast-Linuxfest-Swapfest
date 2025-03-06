@@ -17,3 +17,14 @@ If you want to bring items to swap you must register so that we know how much sp
 |   q5sys   |  Kaypro II and Printer    |  https://en.wikipedia.org/wiki/Kaypro           |  80s  |  1     |  300 Bars of Gold-Pressed-Latinum     |       |          |
 |   q5sys   |  Kontron KDS    |         |  80s  |   1     |       | [Kontron](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/photos/photo_2025-02-03_11-12-22.jpg)      |          |
 |   q5sys   |  NextStation    |  Pizzabox only, no monitor or keyboard           |    90s    |  1  | 100 Bars of Gold-Pressed-Latinum    |       |          |
+|   q5sys   |  Commodore CRT    |            |    80s    |  1  | 200 Bars of Gold-Pressed-Latinum    |       |          |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
