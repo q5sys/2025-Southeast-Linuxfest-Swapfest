@@ -14,6 +14,10 @@ If you want to bring items to swap you must register so that we know how much sp
 
 [See the FAQ](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/faq.md)
 
+***
+
+## Have
+
 | Name | Item | Description | Vintage | Number | Value | Photo | Interest |
 |------|------|-------------|:--------:|:--------:|-------:|-------|----------|
 |   q5sys   |  Kaypro II and Printer    |  https://en.wikipedia.org/wiki/Kaypro           |  80s  |  1     |  300 Bars of Gold-Pressed-Latinum     |       |          |
@@ -34,3 +38,16 @@ If you want to bring items to swap you must register so that we know how much sp
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
+
+***
+
+## Want
+
+## Have
+
+| Name | Item | Description | Vintage | 
+|------|------|-------------|:--------:|
+| q5sys  | Older Compaq Laptops  |   | 80s  |
+|   |   |   |   |   |  
+|   |   |   |   |   |
+
