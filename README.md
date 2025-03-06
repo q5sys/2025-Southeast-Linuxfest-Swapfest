@@ -47,7 +47,7 @@ If you want to bring items to swap you must register so that we know how much sp
 |------|------|-------------|:--------:|------|-----|
 | q5sys  | Older Compaq Laptops  | 286-Pentium Laptops  | 80s-90s  |  |  | 
 | q5sys  | Older Thinkpad Laptops  |   | 90s  | |  | 
-| NetApp  | Netapp DS4246 or DS212C Shelves  | Including Trays, Controllers, and PSUs   | 2010s  | <200 GPL / <100 GPL   |  | 
+| NetApp  | Netapp 4U an 2U 3.5" drive shelves  | Including Trays, Controllers, and PSUs   | 2010s  | <200 GPL / <100 GPL   |  | 
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
