@@ -26,8 +26,7 @@ If you want to bring items to swap you must register so that we know how much sp
 |   q5sys | IBM M5 2u server  |   | 2010s  | 1  |   |   |   |
 |   q5sys | IBM M4 2u server  |   | 2010s  | 1  |   |   |   |
 |   q5sys | IBM M4 1u server  |   | 2010s  | 1  |   |   |   |
-|   q5sys | 40gb Infiniband Switch  |   | 2000s  | 1 |   |   |   |
-|   q5sys | 40gb Infiniband NICS  |   | 2000s  | 4  |   |   |   |
+|   q5sys | 40gb Infiniband Switch and Nics  |   | 2000s  | 1 |   |   |   |
 
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
