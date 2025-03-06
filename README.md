@@ -10,3 +10,6 @@ kudos to you if you get the reference.
 
 If you want to bring items to swap you must register so that we know how much space we need.
 
+[See the FAQ](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/faq.md)
+
+
