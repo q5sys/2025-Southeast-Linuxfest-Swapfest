@@ -43,11 +43,9 @@ If you want to bring items to swap you must register so that we know how much sp
 
 ## Want
 
-## Have
-
 | Name | Item | Description | Vintage | 
 |------|------|-------------|:--------:|
-| q5sys  | Older Compaq Laptops  |   | 80s  |
+| q5sys  | Older Compaq Laptops  | 286-Pentium Laptops  | 80s  |
 |   |   |   |   |   |  
 |   |   |   |   |   |
 
