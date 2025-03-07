@@ -15,7 +15,7 @@ If you want to bring items to swap you must register so that we know how much sp
 [See the FAQ](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/faq.md)
 
 ***
-## [Things people are offering]()
+## [Things people are offering](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/haves.md)
 
 ***
-## [Things people are looking for]()
+## [Things people are looking for](https://github.com/q5sys/2025-Southeast-Linuxfest-Swapfest/blob/main/wants.md)
