@@ -4,6 +4,8 @@
 ### What does it cost?
 
 Free for everyone to attend.  However if you plan to bring items, you must let us know ahead of time.
+However, if you are offering items we would respectfully request that if you are successful in swapping, you make a small donation to SELF.  
+This is not required but would be appreciated.
 ***
 
 ### What can I bring?
