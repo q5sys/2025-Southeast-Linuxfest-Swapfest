@@ -1,7 +1,10 @@
 # 2025-Southeast-Linuxfest-Swapfest
 
 Over the past few years, we've had a Retro Linux Ragchew where we talk about and install old Linux versions on old hardware.
-Every year there's always comments by people about something that they have that they should have brought or comments about people saying what they would love to be able to find someday for their own tinkering and enjoyment. 
+Every year there's always comments from people that fall into three categories.
+- They have something they should have brought.
+- They have something that they dont need/want anymore and wish they could find someone who would enjoy it.
+- They have been looking for something but cant find it anywhere.
 
 So for 2025 were going to do something a little different.
 
